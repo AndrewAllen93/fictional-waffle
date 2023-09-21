@@ -20,3 +20,8 @@ $("#currentDay").text(date);
 ## I then created a function to run when save button is clicked to grab data from specified time block and set in localstorage.
 ## I then created a function to then grab data from localstorage and to change color of time block depending on current time of day.
 
+
+![Screenshot 2023-09-21 100857](https://github.com/AndrewAllen93/fictional-waffle/assets/140868388/5f02163f-d225-4029-a2c6-446370f71511)
+
+https://andrewallen93.github.io/fictional-waffle/
+
